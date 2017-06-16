@@ -1,0 +1,726 @@
+
+/* !GENERAL USE */
+
+.container{
+    width:1366px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+a:link {    /* unvisited link */
+    text-decoration: none;
+}
+
+
+.liststyle ul{  /* removee markers */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.text-align{
+    text-align: center;
+    
+}
+
+
+.tempbg
+{
+    background: #e08a00;
+    
+    
+}
+
+
+.displayblock{
+    
+    display: block;
+}
+
+/* !END OF GENERAL USE */
+
+
+
+
+
+
+
+
+ 
+/* my bar menus and logo */
+
+
+
+.shoppingbag li span{  /* use for shoping bag */
+   margin-left: 400px;
+    
+    
+    
+}
+
+.uldisplaymy ul{  /* use for shoping bag */
+    padding-bottom: 25px;
+     padding-top: 25px;
+    
+    
+    
+}
+
+
+
+.listdisplaymy li{
+    display: inline-block;
+    color: #3C3C3C;
+    font-size: 12px;
+    font-family: "Abril Fatface";
+    margin-left: 50px;
+    
+    
+}
+
+
+.heartpadding{
+    padding-left: 10px;
+    
+    
+}
+
+.bagpadding{
+    padding-left: 12px;
+    
+    
+}
+
+.searchpos{
+    position: relative;
+    right: 50px;
+    
+    
+}
+
+.listbgmy{
+    background: #F1F1F2;
+    
+    
+}
+
+
+atop:hover {    /* Link colour for top bars */
+    color: #AF473C;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a {    /* Link colour for top bars */
+    
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 12px;
+    font-family: "Abril Fatface";
+    color: #3C3C3C;
+}
+
+
+.logodisplay{
+    display: block;
+    
+    
+    
+}
+
+.logo-blue{
+    background: #6D889A;
+    
+}
+
+
+.logopic{
+   
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px; 
+    
+    
+}
+
+.logo-size{
+    width: 660px;
+    height: 220px;
+    
+}
+
+.listdisplaynav li{
+    display: inline-block;
+    margin-right: 25px;
+    margin-left: 25px;
+    
+    
+}
+
+.uldisplaynav ul{  /* whole element */
+  
+     padding-bottom: 25px;
+     padding-top: 25px;
+    
+    
+}
+
+.listbgnav{
+    background: #F1F1F2;
+    
+    
+}
+
+.fa-col{
+    color: #AF473C;
+    
+    
+    
+}
+  
+.fa-col:hover{
+    color: #6D889A;
+    cursor: pointer;
+    
+    
+    
+    
+}
+
+.searchbar input{
+    background-color: #F1F1F2;
+    border: none;
+    border-bottom: 1px solid #F1F1F2;
+    
+    
+}
+
+.searchbar input:hover{
+    
+    border-bottom: 1px solid #AF473C;
+    
+    
+}
+    
+
+
+
+
+/* !END OF my bar menus and logo! */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FOOTER links icons and copyright */
+
+
+
+
+
+
+    
+    
+
+
+.listdisplayfoot li{
+    padding: 4px;
+    
+    
+    
+    
+}
+
+
+.footbg{
+    background: #3C3C3C;
+    
+    
+    
+    
+}
+
+
+
+.flex-cont-foot {
+  padding-top: 45px;
+    padding-bottom: 45px;
+  margin: 0;
+  color: #FCDCD2;
+    
+    font-size: 14px;
+    font-family: "Yanone kaffeesatz";
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+abot:hover {    /* Link colour for bot bars */
+    color: #6D889A;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.head-col str{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: "Abril Fatface";
+    
+    
+}
+
+
+.media-icons{
+    text-align: center;
+    margin-right: 10px;
+    padding-bottom: 20px;
+    
+    
+}
+
+.micons-space a{
+    
+    margin-right: 15px;
+    
+    
+    
+}
+
+.fa-twitter{
+    background: #6D889A;
+    
+ border: 2px solid #3C3C3C;
+    
+    color: white;
+    
+     padding: 10px;
+   
+    width: 30px;
+   
+    border-radius: 80%;
+    
+    -webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+    
+}
+
+
+.fa-instagram{
+    background: #6D889A;
+    color: white;
+     border: 2px solid #3C3C3C;
+     padding: 10px;
+   
+    width: 30px;
+   
+    border-radius: 80%;
+    
+-webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+}
+.fa-facebook{
+    background: #6D889A;
+    color: white;
+     border: 2px solid #3C3C3C;
+  padding: 10px;
+   
+    width: 30px;
+   
+   
+    border-radius: 80%;
+    
+    
+ -webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+}
+.fa-pinterest{
+    background: #6D889A;
+    color: white;
+     border: 2px solid #3C3C3C;
+    padding: 10px;
+   
+    width: 30px;
+   
+  
+    border-radius: 80%;
+    
+   -webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+    
+}
+.fa-youtube-play{
+    background: #6D889A;
+    color: white;
+     border: 2px solid #3C3C3C;
+    padding: 10px;
+   
+    width: 30px;
+   
+    
+    border-radius: 80%;
+    
+-webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+}
+
+.fa-vimeo{
+    background: #6D889A;
+    
+    border: 2px solid #3C3C3C;
+    
+    color: white;
+    
+     padding: 10px;
+   
+    width: 30px;
+   
+    border-radius: 80%;
+    
+    -webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+    
+}
+
+
+
+
+
+
+
+.copy-right{
+    
+      color: #3C3C3C;
+    font-size: 14px;
+    font-family: "Yanone kaffeesatz";
+    background: #6D889A;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    
+    
+    
+}
+
+
+.fa-twitter:hover{
+    
+    
+ border: 2px solid #FCDCD2;
+
+    
+}
+
+.fa-instagram:hover{
+    border: 2px solid #FCDCD2;
+}
+.fa-facebook:hover{
+   border: 2px solid #FCDCD2;
+}
+.fa-pinterest:hover{
+   
+    border: 2px solid #FCDCD2;
+}
+.fa-youtube-play:hover{
+    border: 2px solid #FCDCD2;
+}
+
+.fa-vimeo:hover{
+    border: 2px solid #FCDCD2;
+    
+}
+
+
+/* !END OF FOOTER links icons and copyright */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CONTACT DISPLAY */
+
+
+.heading{
+    
+  color: #FCDCD2;
+    
+  background: #6D889A;
+    
+    padding-top: 4px;
+    
+    padding-bottom: 4px;
+    
+    padding-left: 160px;
+    
+    font-size: 16px;
+    
+    
+
+    
+    
+}
+
+
+.select-slection{
+    
+    padding-top: 130px;
+    
+    padding-bottom: 15px;
+    
+    padding-left: 300px;
+    
+    font-size: 16px;
+    
+    
+}
+
+
+
+.posarrow i{
+    
+    padding-left: 12px;
+    
+    position: relative;
+    top: 9px;
+    color: #6D889A;
+    font-size: 40px;
+    
+    
+    
+}
+
+
+
+.flex-cont-contact {
+  padding-top: 15px;
+    padding-bottom: 15px;
+  margin: 0 auto;
+  padding-left: 250px;
+    width: 800px;
+    
+    
+    
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+
+
+
+.headings-cu str{
+    font-size: 16px;
+   color: #3C3C3C;
+    font-family: "Abril Fatface";
+    
+    
+}
+
+
+.body-cu li{
+    
+    color: #3C3C3C;
+    font-family: "Yanone kaffeesatz";
+    font-size: 14px;
+    
+    
+    
+}
+
+.listdisplaycontact li{
+    padding: 4px;
+    
+    
+    
+    
+}
+
+.rightside{
+    margin-left: 350px;
+   
+    
+    
+}
+
+
+.image-size
+{
+    width: 150px;
+    height: 150px;
+  
+    
+    
+    
+    
+}
+
+
+
+.map{
+    
+     padding-bottom: 100px;
+  
+    
+    
+}
+
+.newsletter{
+    padding-right: 30px;
+    padding-left: 40px;
+   
+    
+  
+    
+    
+}
+
+.general{
+    padding-bottom: 70px;
+    
+    
+}
+
+.comments input{
+    
+    width: 450px;
+    height: 240px;
+    
+    
+}
+
+.listspacing li{
+    margin-bottom: 8px;
+    
+    
+}
+
+.talkpad{
+
+    padding-right: 80px;
+    padding-left: 40px;
+   
+    
+    
+    
+}
+
+.namepad input{
+    margin-bottom: 15px;
+    
+    
+}
+
+.inbox input{
+    
+    height: 30px;
+    width: 200px;
+}
+
+.buttons input[type = button] {
+    width: 85px; 
+    
+    
+}
+
+.butstyle{
+    
+    text-align: center;
+     font-size: 16px;
+    background-color: white;
+    color: #3C3C3C;
+    border: 1px solid #6D889A;
+    font-family: "Abril Fatface";
+}
+
+
+.buttonrr {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    
+    
+    text-decoration: none;
+    display: inline-block;
+   
+}
+
+.boxstyle input[type=text]{
+   border: 1px solid #6D889A; 
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+/* !END OF CONTACT DISPLAY */
+
+
+
+
+
+
+
+
+
+
+
+

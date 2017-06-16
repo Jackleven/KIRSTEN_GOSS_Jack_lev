@@ -1,0 +1,1044 @@
+
+/* !GENERAL USE */
+
+.container{
+    width:1366px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+a:link {    /* unvisited link */
+    text-decoration: none;
+}
+
+
+.liststyle ul{  /* removee markers */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.text-align{
+    text-align: center;
+    
+}
+
+.g-fr{
+    
+    float: right;
+}
+
+.g-fl{
+    
+    float: left;
+}
+
+
+
+/* !END OF GENERAL USE */
+
+
+ 
+/* my bar menus and logo */
+
+
+
+
+.shoppingbag li span{  /* use for shoping bag */
+   margin-left: 400px;
+    
+    
+    
+}
+
+.uldisplaymy ul{  /* use for shoping bag */
+    padding-bottom: 25px;
+     padding-top: 25px;
+    
+    
+    
+}
+
+
+
+.listdisplaymy li{
+    display: inline-block;
+    color: #3C3C3C;
+    font-size: 12px;
+    font-family: "Abril Fatface";
+    margin-left: 50px;
+    
+    
+}
+
+
+.heartpadding{
+    padding-left: 10px;
+    
+    
+}
+
+.bagpadding{
+    padding-left: 12px;
+    
+    
+}
+
+.searchpos{
+    position: relative;
+    right: 50px;
+    
+    
+}
+
+.listbgmy{
+    background: #F1F1F2;
+    
+    
+}
+
+
+atop:hover {    /* Link colour for top bars */
+    color: #AF473C;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a {    /* Link colour for top bars */
+    
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 12px;
+    font-family: "Abril Fatface";
+    color: #3C3C3C;
+}
+
+
+.logodisplay{
+    display: block;
+    
+    
+    
+}
+
+.logo-blue{
+    background: #6D889A;
+    
+}
+
+
+.logopic{
+   
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px; 
+    
+    
+}
+
+.logo-size{
+    width: 660px;
+    height: 220px;
+    
+}
+
+.listdisplaynav li{
+    display: inline-block;
+    margin-right: 25px;
+    margin-left: 25px;
+    
+    
+}
+
+.uldisplaynav ul{  /* whole element */
+  
+     padding-bottom: 25px;
+     padding-top: 25px;
+    
+    
+}
+
+.listbgnav{
+    background: #F1F1F2;
+    
+    
+}
+
+.fa-col{
+    color: #AF473C;
+    
+    
+    
+}
+  
+.fa-col:hover{
+    color: #6D889A;
+    cursor: pointer;
+    
+    
+    
+    
+}
+
+.searchbar input{
+    background-color: #F1F1F2;
+    border: none;
+    border-bottom: 1px solid #F1F1F2;
+    
+    
+}
+
+.searchbar input:hover{
+    
+    border-bottom: 1px solid #AF473C;
+    
+    
+}
+    
+    
+
+
+
+
+/* !END OF my bar menus and logo! */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FOOTER links icons and copyright */
+
+
+
+
+.footer-info{
+    padding-top: 35px;
+    
+    
+}
+
+
+.listdisplayfoot li{
+    padding: 4px;
+    
+    
+    
+    
+}
+
+
+.footbg{
+    background: #3C3C3C;
+    
+    
+    
+    
+}
+
+
+
+.flex-cont-foot {
+  padding-top: 45px;
+    padding-bottom: 45px;
+  margin: 0;
+  color: #FCDCD2;
+    
+    font-size: 14px;
+    font-family: "Yanone kaffeesatz";
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+abot:hover {    /* Link colour for bot bars */
+    color: #6D889A;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.head-col str{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: "Abril Fatface";
+    
+    
+}
+
+
+.media-icons{
+    text-align: center;
+    margin-right: 10px;
+    padding-bottom: 20px;
+    
+    
+}
+
+.micons-space a{
+    
+    margin-right: 15px;
+    
+    
+    
+}
+
+.fa-twitter{
+    background: #6D889A;
+    
+ border: 2px solid #3C3C3C;
+    
+    color: white;
+    
+     padding: 10px;
+   
+    width: 30px;
+   
+    border-radius: 80%;
+    
+    -webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+    
+}
+
+
+.fa-instagram{
+    background: #6D889A;
+    color: white;
+     border: 2px solid #3C3C3C;
+     padding: 10px;
+   
+    width: 30px;
+   
+    border-radius: 80%;
+    
+-webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+}
+.fa-facebook{
+    background: #6D889A;
+    color: white;
+     border: 2px solid #3C3C3C;
+  padding: 10px;
+   
+    width: 30px;
+   
+   
+    border-radius: 80%;
+    
+    
+ -webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+}
+.fa-pinterest{
+    background: #6D889A;
+    color: white;
+     border: 2px solid #3C3C3C;
+    padding: 10px;
+   
+    width: 30px;
+   
+  
+    border-radius: 80%;
+    
+   -webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+    
+}
+.fa-youtube-play{
+    background: #6D889A;
+    color: white;
+     border: 2px solid #3C3C3C;
+    padding: 10px;
+   
+    width: 30px;
+   
+    
+    border-radius: 80%;
+    
+-webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+}
+
+.fa-vimeo{
+    background: #6D889A;
+    
+    border: 2px solid #3C3C3C;
+    
+    color: white;
+    
+     padding: 10px;
+   
+    width: 30px;
+   
+    border-radius: 80%;
+    
+    -webkit-transition-duration: 0.4s; /* trans */
+    transition-duration: 0.4s;
+    
+}
+
+
+
+
+
+
+
+.copy-right{
+    
+      color: #3C3C3C;
+    font-size: 14px;
+    font-family: "Yanone kaffeesatz";
+    background: #6D889A;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    
+    
+    
+}
+
+
+.fa-twitter:hover{
+    
+    
+ border: 2px solid #FCDCD2;
+
+    
+}
+
+.fa-instagram:hover{
+    border: 2px solid #FCDCD2;
+}
+.fa-facebook:hover{
+   border: 2px solid #FCDCD2;
+}
+.fa-pinterest:hover{
+   
+    border: 2px solid #FCDCD2;
+}
+.fa-youtube-play:hover{
+    border: 2px solid #FCDCD2;
+}
+
+.fa-vimeo:hover{
+    border: 2px solid #FCDCD2;
+    
+}
+
+
+
+
+
+ 
+
+/* !END OF FOOTER links icons and copyright */
+
+
+
+
+
+
+
+/* PRODUCT DISPLAY TIME */
+
+
+.TOP{
+   
+     top:0;
+
+  background:#FFFFFF;
+    padding-bottom: 5px;
+    text-align: center;
+    
+}
+
+.LEFT{
+    
+       width: 250px;
+    float:left;
+  
+  background:white;
+}
+
+.MAIN{
+    
+    margin-left:250px;
+  
+  background:white;
+    width: 1340px;
+    
+     border-style: solid;
+    
+    border-left: 1px solid #6D889A;
+   border-top: 0px solid rgba(109, 136, 154, 0);
+    border-right: 0px solid rgba(109, 136, 154, 0);
+    border-bottom: 0px solid rgba(255, 255, 255, 0);
+    
+}
+
+
+#m-top-border{
+    
+    position: relative;
+    right: 200px;
+  
+    margin-top: 1px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.paradise-style h1{
+     
+    font-family: "Abril Fatface";
+    font-size: 28px;
+    padding-top: 15px;
+    color: #3C3C3C;
+    margin-bottom: 10px;
+    
+}
+
+
+
+.craft-style p3{
+      
+    font-family: "Yanone kaffeesatz";
+    font-size: 16px;
+    
+    color: #3C3C3C;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* START OF side sort bar */
+
+
+
+
+.C-marker-style ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+
+
+.C-list-item-style li{
+    padding-top: 40px;
+    padding-bottom: 70px;
+    padding-left: 10px;
+    
+    
+    
+    
+}
+
+
+
+.drop-down-pos{   /* dropdown */
+    
+    position: relative;
+    display: inline-block;
+    
+    
+}
+
+.C-list-dropdown-style{    /* dropdown-content */
+ 
+       
+    display: none;
+    position: absolute;
+    background-color: white;
+   height: 104px;
+    width: 188px;
+    
+    cursor: default;
+    
+    
+   
+    
+    
+    border-style: solid;
+    border-color: #FFFFFF #FFFFFF #FFFFFF #FFFFFF;
+    
+    
+    
+    
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    
+    z-index: 1;
+
+    
+}
+
+
+
+.C-list-box-style button{  /* dropbtn */
+    
+    font-family: "Abril Fatface";
+    color: #3C3C3C;
+    font-size: 16px;
+     background-color: #FFFFFF;
+    
+    
+    
+   padding-top: 8px;
+    padding-bottom: 8px;
+   
+    text-align: left;
+    
+    
+    
+    height: 60px;
+    width: 190px;
+    
+        border-style: solid;
+    border-color: #6D889A #FFFFFF;
+      
+    
+}
+
+#style{  /* dropbtn */
+    
+    font-family: "Abril Fatface";
+    color: #3C3C3C;
+    font-size: 14px;
+     background-color: #FFFFFF;
+    
+    
+    
+   padding-top: 8px;
+    padding-bottom: 8px;
+   
+    text-align: left;
+    
+    cursor: pointer;
+   
+    
+    height: 50px;
+    width: 188px;
+    
+        border-style: solid;
+    border-color: #FFFFFF #FFFFFF #6D889A #FFFFFF;
+      
+    
+}
+
+
+#style:hover{
+    background-color: #e0e0e0;
+    
+    
+    
+}
+
+
+
+
+
+#sort{
+    text-align: center;
+    cursor: default;
+    
+    
+}
+
+
+
+.posag{
+   position: relative;
+    right: 40px;
+    top: 5px;
+    color: #6D889A;
+    
+}
+
+
+
+
+
+
+.drop-down-pos:hover .C-list-dropdown-style {  /* dropdown:hover .dropdown-content */
+    display: block;
+   
+   
+}
+
+
+/* !END OF side sort bar */
+
+
+
+
+
+
+
+
+/* START OF page nav */
+
+.N-button-style button{
+    
+    
+    color: #6D889A;
+    
+     background-color: #FFFFFF;
+    
+ 
+        border-style: none;
+   
+    
+    
+}
+
+
+.N-text-style i{
+    font-weight: bold;
+    font-size: 16px;
+    color: #3C3C3C;
+    font-family: "Playball";
+    
+    position: relative;
+    bottom:10px;
+    
+    
+}
+
+
+.N-current-page{
+    padding-top: 25px;
+    padding-left: 180px;
+    
+    
+}
+
+.N-prod-count{
+    
+    float: right;
+   position: relative;
+    bottom: 34px;
+    right: 160px;
+    padding-right: 80px;
+    
+    
+}
+
+.N-move-button button{
+    
+    font-size: 16px;
+    font-family: "Playball";
+    position: relative;
+    bottom: 10px;
+    
+    
+     border-color: #6D889A;
+    border-style: solid;
+   
+   
+    
+    
+}
+
+.N-move-icon{
+    position: relative;
+   
+    left: 2px;
+    padding-left: 10px;
+    
+    
+}
+
+.N-move-text mt{
+    position: relative;
+    bottom: 6px;
+    
+    
+    
+}
+
+.N-move-show i{
+    position: relative;
+    bottom: 16px;
+    padding-right: 7px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+/* !END OF page nav */
+
+
+
+
+
+
+
+
+
+
+
+/* START OF PRODUCT DISPLAY TIME */
+
+
+.p-flex-cont{
+    
+   padding: 0;
+ margin: 0 auto;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  
+
+ 
+    
+}
+
+.p-flex-contt{
+    
+   padding: 0;
+ margin: 0 auto;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  
+
+ 
+    
+}
+
+
+
+.p-item-cont{
+    
+  
+    
+    padding: 20px;
+    width: 260px;
+    height: 290px;
+    
+    
+    
+    
+}
+
+
+p.ex {
+    width: 68px;
+    
+}
+
+
+
+
+
+.p-numerfont{
+    font-family: "Playball";
+      font-size: 14px;
+    color: #3C3C3C;
+    padding-left: 5px;
+}
+
+
+
+.p-listdisplaymy li{
+    
+    display: inline-block;
+    color: #3C3C3C;
+    font-size: 16px;
+    font-family: "Abril Fatface";
+    
+    padding-left: 6px;
+    
+    
+}
+
+.p-move-list{
+    position: relative;
+    bottom: 30px;
+   
+    
+    
+    
+}
+
+
+
+
+.p-moveicon-bag{
+    
+    padding-right: 14px;
+    position: relative;
+    right: 38px;
+}
+
+.p-moveicon-heart{
+     padding-left: 40px;
+    
+}
+
+
+
+
+#p-color{
+    color: #3C3C3C;
+    background: #FFFFFF;
+    
+    
+    
+}
+
+
+.p-image-size{
+    
+  
+    
+    height: 260px;
+    width: 260px;
+    
+    
+    
+}
+
+.p-pad-prod{
+    
+    padding-bottom: 50px;s
+
+    
+    
+}
+
+
+
+
+
+.p-back
+{
+    
+    
+    
+    
+    text-decoration: underline;
+  
+    font-family: "Abril Fatface";
+    padding-right: 285px;
+    text-align: center;
+    
+    
+}
+
+
+
+
+                                                    /* BORDERS AND HOVERS */
+
+#p-color:hover{
+   color: #AF473C;
+    background: #FFFFFF;
+    
+    
+       
+}
+
+
+
+
+
+.N-button-style:hover button{
+   color: #AF473C;
+    
+    
+    
+       
+}
+
+
+
+
+
+
+
+
+                                                    /* !END OF BORDERS AND HOVERS */    
+
+
+
+/* !END OF PRODUCT DISPLAY TIME */
